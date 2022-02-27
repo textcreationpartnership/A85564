@@ -1,0 +1,296 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A great and bloudy fight at Scarborough-castle in Yorkeshire, between the Kings forces under the command of Col. Bointon, and the Parliaments forces under the command of Col. Bethel: with the number that were killed and taken, and the totall routing of the foot, near the cliffs, and breaking their necks down the great rock, and casting them into the sea. Also the declaration of Col. Charles Fairfax, and Major Gen. Poyntz, Marshall Gen. for the King, and their joyning with Col. Boynton against the Parliament. Likewise, another fight near Skipton castle in Yorkshire, between the English and the scots, and the Scots resolution and design touching the city, of York. Together, with the Parliaments message and propositions, to their brethren of Scotland, concerning the Kings Majesty.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1648</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A85564</idno>
+            <idno type="STC">Wing G1638</idno>
+            <idno type="STC">Thomason E458_16</idno>
+            <idno type="STC">ESTC R205062</idno>
+            <idno type="EEBO-CITATION">99864504</idno>
+            <idno type="PROQUEST">99864504</idno>
+            <idno type="VID">162099</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A85564)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 162099)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 73:E458[16])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A great and bloudy fight at Scarborough-castle in Yorkeshire, between the Kings forces under the command of Col. Bointon, and the Parliaments forces under the command of Col. Bethel: with the number that were killed and taken, and the totall routing of the foot, near the cliffs, and breaking their necks down the great rock, and casting them into the sea. Also the declaration of Col. Charles Fairfax, and Major Gen. Poyntz, Marshall Gen. for the King, and their joyning with Col. Boynton against the Parliament. Likewise, another fight near Skipton castle in Yorkshire, between the English and the scots, and the Scots resolution and design touching the city, of York. Together, with the Parliaments message and propositions, to their brethren of Scotland, concerning the Kings Majesty.</title>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for G.W. and are to be sold in the Old Baily,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1648.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Aug: 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Boynton, Mathew, d. 1651 --  Early works to 1800.</term>
+               <term>Bethel, Hugh --  Early works to 1800.</term>
+               <term>Fairfax, Charles, 1597-1673 --  Early works to 1800.</term>
+               <term>Poyntz, John, fl. 1647-1650 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-09</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-12</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:162099:1" rendition="simple:additions"/>
+            <p>A GREAT AND BLOUDY FIGHT AT SCARBOROUGH-CASTLE in <hi>Yorkeſhire,</hi> between the Kings Forces under the Command of Col. <hi>Bointon</hi> and the Parliaments Forces under the Com<g ref="char:EOLhyphen"/>mand of Col. <hi>Bethel:</hi> With the number that were killed and taken, and the totall routing of the Foot, near the Cliffs, and breaking then necks down the great Rock, and caſting them into the Sea. Alſo the Declaration of Col. <hi>Charles Fairfax,</hi> and Major Gen. <hi>Poyntz.</hi> Marſhall Gen. for the King, and their joyning with Col. <hi>Boynten</hi> againſt the Parliament. Likewiſe, an<g ref="char:EOLhyphen"/>other Fight near <hi>Skipton</hi> Caſtle in <hi>Yorkſhire,</hi> between the <hi>Engliſh</hi> and the <hi>Scots,</hi> and the <hi>Scots</hi> Reſolution and Deſign touching the City, of <hi>York.</hi> To<g ref="char:EOLhyphen"/>gether, with the Parliaments Meſſage and Propoſitions, to their Brethren of <hi>Scotland,</hi> concerning the Kings Majeſty.</p>
+            <figure>
+               <figDesc>depiction of two mounted combatants</figDesc>
+            </figure>
+            <p>
+               <add>Aug: 14</add> 
+               <hi>London,</hi> Printed for <hi>G.W.</hi> And are to be ſold in the <hi>Ol<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>-Baily.</hi> 1648.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:162099:2"/>
+            <pb n="1" facs="tcp:162099:2"/>
+            <head>A GREAT FIGHT IN <hi>YORKSHIRE,</hi> NEAR <hi>Scarborough</hi> Caſtle, between the Kings Forces under the Command of Col. <hi>Bointon,</hi> and the Parliaments Forces under the Command of Collonel <hi>Bethel.</hi>
+            </head>
+            <opener>
+               <salute>Dear Friend,</salute>
+            </opener>
+            <p>SInce the revolting of <hi>Scarborough,</hi> and Col <hi>Bointons</hi> declaring for the King, here hath happened ſome action very conſiderable, which is as followeth: On Wedneſday laſt, Col. <hi>Bethel</hi> with his Regim<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt of Horſe, and Col. <hi>Legard</hi> with his Regiment of Foot faced the Town and Caſtle, which c<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>uſed action; Col. <hi>Boi<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ton</hi> (the Governour) drew forth a pa<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ty of horſe and foot, Col. <hi>Bethel</hi> did the like, the ſaid forlorn engaged, and diſ<g ref="char:EOLhyphen"/>puted the ground, the encounter was great, and gallanly
+<pb facs="tcp:162099:3"/>m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>intained by both parties; inſomuch, that ſome blood was ſpilt, and divers h<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>roick ſpirits ſacrificed their lives at the point of the Sword, and 7. gallant charges were made by the Forlornes of Horſe, till at the laſt, Col. <hi>Be<g ref="char:EOLhyphen"/>thels</hi> men being overpowred, retreated, the Cavalry pur<g ref="char:EOLhyphen"/>ſues; whereupon Col. <hi>Bethel</hi> adva<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ces wi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>h his whole Bodie, Col. <hi>Bointo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>kes towards him, both parties en<g ref="char:EOLhyphen"/>gaged, and after ſome diſpute, our men became victorious routed the Enemies whole Bodie, purſue<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> the Enemie to the Caſtle Gates, doing great ex<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cution, beat the Foote down the Cliff, who for expedition, divers of them <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>um<g ref="char:EOLhyphen"/>bled down the Rocks, and broke their necks: In this acti<g ref="char:EOLhyphen"/>on and bloody conflict, we took about 17. priſoners, kil<g ref="char:EOLhyphen"/>led 20. upon the place, and vanquiſhed, the reſt with the loſſe of 15. men, killed and wounded, Col. <hi>Bethel</hi> with his forces, lies at <hi>Salſgrave,</hi> a quarter of a mile from <hi>Scarbo<g ref="char:EOLhyphen"/>rough</hi> Town, and ſo ſoone as a co<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſiderable partie comes up, intends to lay cloſe ſiege to the Caſtle: We hear, that Col. <hi>Charles Fairfax,</hi> who were deſigned for the ſervice of <hi>Ireland</hi>) and one Captain <hi>Wilkins,</hi> that was Marſhall Gen. to Maj. Gen. <hi>Poyntz,</hi> and one C<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ptain <hi>Buck,</hi> which was a Captain in Col. <hi>Bethels</hi> Regiment formerly, are gone to <hi>Scarborough</hi> to Col. <hi>Bointon,</hi> and have declared for the King, &amp; tendered their ſervice to the Governour. We hear, that part of L.G. <hi>Cr<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>mwells</hi> forces are joyned with M.G. <hi>Lambert,</hi> and th<gap reason="illegible" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> there hath been ſome action be<g ref="char:EOLhyphen"/>tween the Scots and them near <hi>Skipton,</hi> and divers ſlain on both ſides: which action, hath much retarded the Scots Deſign, intended to march towards <hi>York,</hi> to act things of high concernment, to uphold their tollering Cauſe.</p>
+            <closer>
+               <dateline>Salſg<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave <date>Aug. 11. 1648.</date>
+               </dateline>
+               <salute>Sir</salute> 
+               <signed>I am, Your Friend, Nath: Gibſon.</signed>
+            </closer>
+         </div>
+         <div type="Parliamentary_proposals">
+            <head>The Parliaments Propoſalls to the Kingdom of Scotland.</head>
+            <p>WE the Commons aſſembled in the Parl. of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> taking it into our conſideration. That how<g ref="char:EOLhyphen"/>ever the late poſſeſſing of <hi>Berwick</hi> and <hi>Carliſle,</hi> and the
+<pb n="3" facs="tcp:162099:3"/>coming of the Scottiſh Army and Forces into this King<g ref="char:EOLhyphen"/>dom, be moſt notorious and unparalleld Breaches of the Solemn League and Covenant, and the many Treaties, Nationall Agreements, and Acts of Parl. p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſſed both in <hi>England</hi> and <hi>Scotland.</hi>
+            </p>
+            <p>Yet, becauſe we are aſſured theſe impious and unwar<g ref="char:EOLhyphen"/>rantable Actions cannot be done with the Approbation and Conſent of the Religious and Wel-<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ffected people of the Kingdom of <hi>Scotland;</hi> and that we underſtand there are very few amongſt theſe who are in this Ing<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>gement a<g ref="char:EOLhyphen"/>gainſt us, that firſt ingaged w<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>th us in the Covenant and Cauſe, but ſuch as have been profeſſed En<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>mies to them, however they be now content to pretend thereunto, that they may the better deceive the people of this Kingdom: We are unwil<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing to impute ſuch Evi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ls to the Nation in generall, but to thoſe perſons that own and appear in them, whom we are confident, God (that hath ſtill ſo remarkably manifeſted his diſpleaſure againſt Truce breakers) in his due time will judge, what ever we may ſuffer in the mean while.</p>
+            <p>Therefore we now ſend to you, that it may appear we wil no<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by any provocation be induced to withdraw our ſelves from thoſe in <hi>Scotland</hi> who retain their former Principles, and ſtill own the Cauſe wherein we have (with bleſſing from heaven) been engaged and ſolemnly Uni<g ref="char:EOLhyphen"/>ted.</p>
+            <p>And becauſe the Peace of the Church, and power of Religion cannot long continue without good order and Diſcipline eſtabliſht therein, they called an Aſſembly of Godly Learned, and Orthodox Divines from all parts of the Kingdom, with whom ſome Commiſsio<g ref="char:EOLhyphen"/>ners of the Church of <hi>Scotland</hi> joyned, to ſit at <hi>VVeſtminſter;</hi> and after Conſultation had with them,
+<pb n="4" facs="tcp:162099:4"/>both Houſes took away the Service-Book, commonly cal<g ref="char:EOLhyphen"/>led <hi>The Book of Common Prayer,</hi> and eſtabliſht <hi>A Directory for Worſhip,</hi> commanding the practice of it in all the Chur<g ref="char:EOLunhyphen"/>ches and Chappels of this Kingdom: And, in ſtead of E<g ref="char:EOLhyphen"/>piſcopacy they have ſet up preſbyteryal Government in the Church, which is already ſetled in many parts of the Kingdom, and do (by Gods aſſiſtance) reſolve to p<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rſue the further perfecting and eſtabliſhment of it in all parts, bothin <hi>England</hi> and <hi>Ireland.</hi>
+            </p>
+            <p n="1">1 They have <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>pproved and paſſed <hi>The Confeſsion of Faith</hi> (or <hi>Articles of Chriſtian Religion</hi>) as it came from the Aſſembly of Divines, with ſome ſm<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ll alterations (only ſome ſmall part is yet under conſideration) the reſt being printed and publiſhed by Authority of Parliament.</p>
+            <p n="2">2 They have paſſed a greater and leſs <hi>Catechiſm</hi> that came from the Aſſembly of Divines.</p>
+            <p n="3">3 They have taken away all ſuperſti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ious Ceremonies and popiſh Innovations.</p>
+            <p n="4">4 They have given authority for the demol<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſhing of all R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>preſentations of any perſons of the Trinity, S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>int or Angel, and taking away all Alters, Croſſes, Crucifixes, P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ct<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>res, and all other Monuments of Idolatry and Su<g ref="char:EOLhyphen"/>perſtition in any Church, Chappell or Place within this Kingdom.</p>
+            <p n="5">5. They have paſſed an Ordinance for the puniſhing of blaſphemies and hereſies,</p>
+            <p n="6">6. They have paſſed an ordinance for the ejecting of ſcandalous Miniſters and ſchoolmaſters; and thereupon have removed many, in whole ſtead they have placed godly and able men.</p>
+            <p n="7">7. They have paſſed an Ordinance That none ſhall enter into the work of the miniſtry but ſuch as are Ordained there<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o.</p>
+            <p n="8">
+               <pb n="5" facs="tcp:162099:4"/> 8 They have given all the incouragement, and made the beſt proviſion they could for the maintenance of a godly Preaching Miniſtry through the Kingdom, not only in removing the igno<g ref="char:EOLhyphen"/>rant and ſcandalous, but in augmenting maintenance for painfull Miniſters, both out of the Impropriations of Biſhops, the Eſtates and Revenues of Deans and Chapters, and out of the Improptia<g ref="char:EOLhyphen"/>tions of Delinquents, which they brought out and ſetled upon Churches that wanted maintenance, to a very great value.</p>
+            <p n="9">9. they have purged the Univerſities and chei<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Schools of the Kingdom (which are the Seminaries of Learning, and education of Youth) of many heads of Houſes, Fellows and Schollers that were Superſtitious, Prelatical and Malignant, and have placed in their ſtead ſuch as are well affected to Reformation of Religion, and u<g ref="char:EOLhyphen"/>niformity with other R<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>formed Churches.</p>
+            <p n="10">10. They have paſſed ſeverall Ordinances for the better obſer<g ref="char:EOLhyphen"/>vation of the Lords day, and dayes of publike Faſt and Thankſgi<g ref="char:EOLhyphen"/>ving, and have condemned all licentious practices upon thoſe days and have ordered the books formerly written to be publ quely burnt.</p>
+            <p n="11">11. They have paſſed an Ordinance for ſuppreſſing all S<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>age-P<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ayes and Inte<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ludes (the Nurſeries of Vice and Prophan<g ref="char:EOLhyphen"/>neſſe.)</p>
+            <p>And although we muſt needs ſay, That the greateſt let and im<g ref="char:EOLhyphen"/>pediment which we have met with in ſetling the Reformation of Religion (according to the Covenant) hath come from His Ma<g ref="char:EOLhyphen"/>jeſty, who by His refuſing hitherto to grant our deſires for the ta<g ref="char:EOLhyphen"/>king away of E<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iſcopy and the Service-book, and to ſettle the di<g ref="char:EOLhyphen"/>rectory for worſhip, and Presbyteriall Government; and by de<g ref="char:EOLhyphen"/>nying <gap reason="illegible" extent="2 letters">
+                  <desc>••</desc>
+               </gap>s concu<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>rence to eſtabliſh them by act of Par<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>iament, hath given grea occaſion to men of unſound judgmen<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s, to ſpr<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad their opinions and errors (which is not unuſuall in times of Re<g ref="char:EOLhyphen"/>formation) when the ſetling of it is long delayed.</p>
+            <p>And further, by his declaring in his late Meſſage from the Iſle of <hi>W<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gh<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>.</hi> That he thinks himſelf obliged both a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Chriſtian and <gap reason="illegible" extent="2 words">
+                  <desc>〈◊◊〉</desc>
+               </gap> King, to employ whatever power God ſhall put in his hand for the upholding of Epiſcopacy, he hath given great encou<g ref="char:EOLhyphen"/>r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nt to the Popiſh, Malignant and Prelaticall party to en<g ref="char:EOLhyphen"/>deavour by plots a<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d deſigns, and <gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ew again by open force, the
+<pb n="6" facs="tcp:162099:5"/>reintroducing of Epiſcopacy and the Service-book, which by the Conjunction of the Scotiſh Army with their Forces, they have now great hopes to effect; yet, by Gods aſſiſtance who hath hel<g ref="char:EOLhyphen"/>ped us hitherto) it ſhall be our care and endeavour againſt all dan<g ref="char:EOLhyphen"/>gers and diſcouragements whatſoever, to proceed in the work of Reformation untill it be perfected.</p>
+            <p>For other things wherewith we are commonly aſperſed, as, That we ſhould have intentions to alter the Funda<g ref="char:EOLhyphen"/>mentall Government of this Kingdom; both Houſes have endeavoured ſo to ſtop the mouth of malice by declaring ſeverall times formerly, and of late the 26. of May, That they will not alter the Government by <hi>King, Lords</hi> and <hi>Commons,</hi> that we ſhall need to ſay no more of it.</p>
+            <p>And for our deſires of Peace, our 7. ſeverall Addreſſes to the King, with Propoſitions for a ſafe and wel-groun<g ref="char:EOLhyphen"/>ded Peace, wil ſufficiently ſpeak for us: And although the ſeveral denials which we have received from his Majeſtie formerly, and the preſent preparations for War by the Malignant par<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ie of both Kingdoms under pretence of Peace might whollie diſcourage us, yet we (notwithſtan<g ref="char:EOLhyphen"/>ding all the hazards that may attend it) now again agreed to try whether a Peace can be ſetled by a Treatie with his Maj. in the Iſle of <hi>Wyght,</hi> upon the propoſitions pre<g ref="char:EOLhyphen"/>ſented to him at <hi>Hampton Court,</hi> wherein we ſhall (by the help of God) approve our ſelves ſuch as are both deſirous of a firm Peace, and mindfull of the truſt repoſed in u<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> by the people of this Kingdom, for the ſecuring of Religion and their Liberties.</p>
+            <closer>
+               <signed>Henry Elſyng, Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
